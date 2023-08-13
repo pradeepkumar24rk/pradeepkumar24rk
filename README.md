@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="300" style="border-radius:10%" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkumar24rk&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumar24rk" /> </p>
 
-- 🌱 I’m currently learning **Docker, NextJS**
+- 🌱 I’m currently learning **IOS**
 
 - 👨‍💻 All of my projects are available at [https://pradeepkumar24rk.netlify.app/](https://pradeepkumar24rk.netlify.app/)
 
