@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pradeepkumar24rk@gmail.com**
 
-- 📄 Know about [my experiences](https://drive.google.com/file/d/1gELghr83VaNZOwxIzFSGUhk92N75pT-X/view)
+- 📄 Know about [My Experiences](https://drive.google.com/file/d/1gELghr83VaNZOwxIzFSGUhk92N75pT-X/view)
 
 - ⚡ Fun fact **I am an enthusiast with coding.**
 
