@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **IOS**
 
-- 👨‍💻 All of my projects are available at [https://pradeepkumar24rk.netlify.app/](https://pradeepkumar24rk.netlify.app/)
+- 👨‍💻 All of my projects are available at [Protfolio](https://pradeepkumar24rk.netlify.app/)
 
 - 💬 Ask me about **ReactJS, MongoDB, ExpressJS, NodeJS and Java**
 
 - 📫 How to reach me **pradeepkumar24rk@gmail.com**
 
-- 📄 Know about my experiences [https://pradeepkumar24rk.netlify.app/Resume.pdf](https://pradeepkumar24rk.netlify.app/Resume.pdf)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1gELghr83VaNZOwxIzFSGUhk92N75pT-X/view)
 
 - ⚡ Fun fact **I am an enthusiast with coding.**
 
