@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Protfolio](https://pradeepkumar24rk.netlify.app/)
 
-- 💬 Ask me about **ReactJS, MongoDB, ExpressJS, NodeJS and Java**
+- 💬 Ask me about **ReactJS, MongoDB, ExpressJS, NodeJS, Java and Swift**
 
 - 📫 How to reach me **pradeepkumar24rk@gmail.com**
 
