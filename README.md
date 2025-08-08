@@ -2,7 +2,7 @@
 
 ## About Me
 
- I’m a Full-Stack Developer who loves working with the MERN stack and iOS. Always curious, always building, and always exploring new tech!
+I’m a Full-Stack Developer fluent in MERN and iOS magic. I love turning ideas into apps, exploring new tech, and learning something cool every day.
 
 ## Skills and Technologies
 
