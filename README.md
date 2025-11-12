@@ -9,9 +9,9 @@ I’m a Full-Stack Developer fluent in MERN and iOS magic. I love turning ideas 
 - **Languages**: JavaScript, Swift, Python, Java
 - **Web Development**: HTML, CSS, Node.js
 - **Frameworks and Libraries**: React Js, Next Js, React Native, Express Js, Swift UI, Swift UIKIt
-- **API Development**: REST
+- **API Development**: REST, SOAP, GraphQL, WebHooks, RabbitMQ
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, Bitbucket, OpenShift, Jenkins
+- **Tools**: Git, GitHub, Bitbucket, OpenShift, Jenkins, AWS
 - **Specialities**: Mobile app Development, Full Stack web Development, Competitive Programming
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeepkumar24rk&show_icons=true&locale=en" alt="pradeepkumar24rk" /></p>
